@@ -2,22 +2,12 @@
   "name": "coinbase-pro",
   "version": "0.9.0",
   "author": "Coinbase",
-  "bugs": "https://github.com/coinbase/coinbase-pro-node/issues",
+  "bugs": "https://github.com/devstormuk/cbpro/issues",
   "contributors": [
     {
-      "email": "peterldowns@gmail.com",
-      "name": "Peter Downs",
-      "url": "http://peterdowns.com"
-    },
-    {
-      "email": "maksimus16@gmail.com",
-      "name": "Maksim Stepanenko",
-      "url": "http://maksim.ms"
-    },
-    {
-      "email": "miha@rebernik.info",
-      "name": "Miha Rebernik",
-      "url": "http://miha.rebernik.info"
+      "email": "",
+      "name": "",
+      "url": ""
     }
   ],
   "dependencies": {
